@@ -1,0 +1,17 @@
+This project aims to gain valuable insights into user behavior, restaurant performance, 
+and overall trends on the Swiggy food delivery platform. By analyzing order data,
+we can uncover hidden patterns and answer key questions to
+improve the Swiggy experience for both customers and restaurants.
+
+Data:
+
+The project will focus on a dataset containing Swiggy order information, potentially including columns like:
+
+id (unique identifier for the order)
+order_id (external order identifier)
+order_total (total amount paid for the order)
+restaurant_name (name of the restaurant the order was placed from)
+order_time (timestamp of the order placement)
+rain_mode (indication of whether it was raining at the time of the order)
+on_time (whether the order was delivered on time)
+(Optional) Additional columns might include user ID, item details, delivery location, etc. (depending on data availability)
